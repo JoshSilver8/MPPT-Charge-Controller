@@ -7,6 +7,9 @@
 // Power Electronics ENGR 460
 // Rob Frohne
 //------------------------------------------------------------------------------------------------------
+// Intially Wrote by Tim Nolan
+// Modified by Joshua Silver
+//------------------------------------------------------------------------------------------------------
 
 #include "TimerOne.h"          // using Timer1 library from http://www.arduino.cc/playground/Code/Timer1
 #include <wire.h>
